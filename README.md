@@ -8,7 +8,7 @@ ansible 기반의 인프라 운영 자동화 도구입니다.
 * ansible 2.4.0.0
 * APScheduler(스케줄링)
 * flask(사용자 인터페이스)
-* MySQL(저장소)
+* Maria DB
 
 ## How to Play
 
